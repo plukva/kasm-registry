@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'CD-IT Services',
+    description: 'Unofficial Kasm Workspaces registry by CD-IT Services',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://duelistrag3.github.io/kasm-registry/',
+    contactUrl: 'https://christian-dullin.de',
   },
   reactStrictMode: true,
   swcMinify: true,
